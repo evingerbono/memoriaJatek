@@ -1,0 +1,7 @@
+img{
+    max-width: 200px;
+}
+#jatek{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
